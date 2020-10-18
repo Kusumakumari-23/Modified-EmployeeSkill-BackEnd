@@ -1,0 +1,51 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-09-24T12:05:09.892Z",
+        "line": 3,
+        "name": "I search for skillId",
+        "description": "",
+        "id": "testing-skills-operations;i-search-for-skillid",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I search for skillId",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "the skill should found",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "return skillname and details skillName , details",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Testing Skills Operations",
+    "description": "",
+    "id": "testing-skills-operations",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/Features/skills.feature",
+    "tags": []
+  }
+]
